@@ -1,0 +1,14 @@
+{
+  "hash": "a5eb73d5681627b3e6d7f272830334e6",
+  "result": {
+    "markdown": "---\ntitle: \"RC Coding Lounge Workshop\"\nauthor: \"Jay\"\ndate: \"2023-01-10\"\ncategories: [news, code, analysis]\nimage: \"code-club.png\"\n---\n\n\nThis is a post about RC Coding Lounge. Hello everyone!\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

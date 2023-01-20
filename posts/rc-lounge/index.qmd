@@ -1,0 +1,13 @@
+---
+title: "RC Coding Lounge Workshop"
+author: "Jay"
+date: "2023-01-10"
+categories: [news, code, analysis]
+image: "code-club.png"
+---
+
+This is a post about RC Coding Lounge. Hello everyone!
+
+```{r}
+1 + 1
+```
